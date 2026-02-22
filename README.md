@@ -64,7 +64,6 @@ Sistema de e-commerce simplificado que implementa tres patrones de diseño del G
           Order notifica a SMSNotifier
           Order notifica a LogNotifier
 
----
 
 ## Justificacion de Patrones
 
